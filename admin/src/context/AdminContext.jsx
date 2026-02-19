@@ -4,7 +4,7 @@ import axios from 'axios'
 export const AdminContext = createContext()
 
 const AdminContextProvider = ({ children }) => {
-  const backendUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:4000'
+  const backendUrl = import.meta.env.https://shopkart-j2qr.onrender.com
   const [adminToken, setAdminToken] = useState(localStorage.getItem('adminToken') || '')
 
   // Admin Login
