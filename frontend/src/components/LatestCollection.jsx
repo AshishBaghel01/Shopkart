@@ -31,7 +31,7 @@ const LatestCollection = () => {
           </h2>
           
           <p className="text-gray-600 text-lg max-w-2xl mx-auto">
-            Discover our newest arrivals carefully curated to bring you the latest trends and timeless classics.
+            Discover our newest arrivals to bring you the latest trends and timeless classics.
           </p>
         </div>
 
