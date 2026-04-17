@@ -3,7 +3,7 @@ const Features = () => {
     {
       icon: '🚚',
       title: 'Free Shipping',
-      description: 'On orders over $100. Fast and reliable delivery to your doorstep.',
+      description: 'Fast and reliable delivery to your doorstep.',
     },
     {
       icon: '💯',
@@ -18,18 +18,14 @@ const Features = () => {
     {
       icon: '🛡️',
       title: 'Secure Payment',
-      description: 'SSL encrypted transactions. Your payment information is always safe.',
+      description: 'Your payment information is always safe.',
     },
     {
       icon: '⭐',
       title: '24/7 Support',
       description: 'Our customer service team is always ready to help you anytime.',
     },
-    {
-      icon: '🎁',
-      title: 'Gift Wrapping',
-      description: 'Free gift wrapping service for all your special occasions.',
-    },
+    
   ]
 
   return (
@@ -40,7 +36,7 @@ const Features = () => {
             Why Choose Us
           </h2>
           <p className="text-gray-600 text-lg">
-            Experience shopping like never before with our premium services
+            Experience shopping like never before...
           </p>
         </div>
 
