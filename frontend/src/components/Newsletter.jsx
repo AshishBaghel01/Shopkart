@@ -37,7 +37,7 @@ const Newsletter = () => {
           </h2>
 
           <p className="text-gray-300 text-lg mb-8">
-            Subscribe to our newsletter and receive exclusive discounts, new arrivals, and special promotions directly in your inbox.
+            Subscribe to get our new arrivals, and special promotions directly in your inbox.
           </p>
 
           <form onSubmit={handleSubscribe} className="flex flex-col sm:flex-row gap-4 max-w-lg mx-auto">
@@ -56,10 +56,6 @@ const Newsletter = () => {
               {loading ? 'Subscribing...' : 'Subscribe'}
             </button>
           </form>
-
-          <p className="text-gray-400 text-sm mt-4">
-            Don't worry, we never spam. Unsubscribe at any time.
-          </p>
         </div>
       </div>
 
