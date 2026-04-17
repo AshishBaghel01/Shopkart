@@ -127,7 +127,7 @@ const Footer = () => {
                 <span>📧</span>
                 <div>
                   <p className="text-sm text-gray-500">Email</p>
-                  <a href="mailto:support@forever.com" className="hover:text-white transition-colors">
+                  <a href="mailto:support@Shopkart.com" className="hover:text-white transition-colors">
                     support@Shopkart.com
                   </a>
                 </div>
@@ -136,7 +136,7 @@ const Footer = () => {
                 <span>📞</span>
                 <div>
                   <p className="text-sm text-gray-500">Phone</p>
-                  <a href="tel:+1234567890" className="hover:text-white transition-colors">
+                  <a href="tel:+91 8100045000" className="hover:text-white transition-colors">
                     +91 8100045000
                   </a>
                 </div>
