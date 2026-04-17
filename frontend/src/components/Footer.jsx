@@ -19,7 +19,7 @@ const Footer = () => {
               Shopkart
             </h3>
             <p className="text-gray-400 leading-relaxed mb-6">
-              Your one-stop destination for trendy fashion and accessories. Quality products at affordable prices.
+              Quality products at affordable prices.
             </p>
             <div className="flex gap-4">
               {socialLinks.map((social) => (
@@ -137,7 +137,7 @@ const Footer = () => {
                 <div>
                   <p className="text-sm text-gray-500">Phone</p>
                   <a href="tel:+1234567890" className="hover:text-white transition-colors">
-                    +1 234 567 890
+                    +91 8100045000
                   </a>
                 </div>
               </li>
@@ -145,7 +145,7 @@ const Footer = () => {
                 <span>📍</span>
                 <div>
                   <p className="text-sm text-gray-500">Address</p>
-                  <p>123 Fashion Street, New York, NY 10001</p>
+                  <p>Chauk Bazar Mathura, 281121</p>
                 </div>
               </li>
             </ul>
@@ -163,10 +163,6 @@ const Footer = () => {
               <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
               <span>•</span>
               <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
-            </div>
-
-            <div className="text-gray-400 text-sm text-center md:text-right">
-              <p>Made with 💜 by Shopkart Team</p>
             </div>
           </div>
         </div>
