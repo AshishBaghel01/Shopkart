@@ -23,7 +23,7 @@ const Hero = () => {
             </h1>
             
             <p className="text-xl text-gray-300 mb-8 leading-relaxed">
-              Explore our curated collection of premium fashion. From timeless classics to trendy pieces, 
+              Explore our collections of premium fashion. From classics to trendy pieces, 
               find everything you need to express your personal style.
             </p>
             
